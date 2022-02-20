@@ -1,0 +1,2 @@
+class CreditCardInvalid(Exception):
+    pass

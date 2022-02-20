@@ -18,3 +18,4 @@ pytesseract==0.3.7
 python-multipart==0.0.5
 fastapi_utils~=0.2.1
 imutils==0.5.4
+skimage

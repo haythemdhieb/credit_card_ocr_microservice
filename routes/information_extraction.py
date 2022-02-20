@@ -1,9 +1,9 @@
 from io import BytesIO
 
 import numpy as np
-from fastapi import APIRouter, Depends, File, UploadFile
-from loguru import logger
 from PIL import Image
+from fastapi import APIRouter, Depends, File, UploadFile
+
 from data_schemas.models import FileForPrediction
 from pipeline_modules.prediction_pipeline import predict_file
 
