@@ -1,1 +1,1 @@
-# credit_card_ocr_microservice
+# credit card ocr microservice

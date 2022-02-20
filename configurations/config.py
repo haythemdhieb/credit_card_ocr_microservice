@@ -1,7 +1,5 @@
-import logging
-import os
 
-from pydantic import BaseModel, BaseSettings, Field
+from pydantic import BaseSettings, Field
 
 
 class CreCardSettings(BaseSettings):
